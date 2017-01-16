@@ -1,0 +1,3 @@
+Le gars qui pull avant de pusher (genre ce qu'il faut faire, quoi!).
+
+Seb
